@@ -34,6 +34,7 @@ public class Main {
                     default:
                         System.out.println("Bolme : " + (n1/n2));
                 }
+                break;
             default:
                 System.out.println("Hatali giris yaptiniz!!!");
         }
